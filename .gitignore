@@ -1,0 +1,7 @@
+*.vpp~*
+*.bak*
+*.lck*
+*.vux
+*.xml
+*.ddl
+*.sql
